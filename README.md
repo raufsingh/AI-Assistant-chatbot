@@ -43,7 +43,7 @@ This project helped me deepen my understanding of Large Language Models, model i
 
 3. Run the chatbot:
    ```bash
-   python app.py
+   python gradio_main.py
    ```
 
 ## Contributing
