@@ -20,8 +20,13 @@ This project is an AI-powered chatbot built using **Gradio** and **Microsoft Phi
   
 ## Possible Improvements
 💡 Fine-tuning on medical datasets for better domain-specific accuracy
+
 💡 Integrating retrieval-based responses to include factual information from reliable sources
+
 💡 Adding voice-to-text support for a more interactive experience
+
+## Conclusion   
+This project helped me deepen my understanding of Large Language Models, model inference optimization, and API integration. It also gave me hands-on experience with building AI-driven applications that can be deployed and used in real-world scenarios.
 
 ## Installation
 
@@ -40,8 +45,6 @@ This project is an AI-powered chatbot built using **Gradio** and **Microsoft Phi
    ```bash
    python app.py
    ```
-## Conclusion   
-This project helped me deepen my understanding of Large Language Models, model inference optimization, and API integration. It also gave me hands-on experience with building AI-driven applications that can be deployed and used in real-world scenarios.
 
 ## Contributing
 Feel free to contribute to this project by opening issues or submitting pull requests.
