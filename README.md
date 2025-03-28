@@ -8,6 +8,21 @@ This project is an AI-powered chatbot built using **Gradio** and **Microsoft Phi
 - Interactive chatbot interface built with **Gradio**.
 - Runs on **CPU** or **GPU**, depending on availability.
 
+## Usage
+- Enter a health-related question in the chat input.
+- The AI will generate a relevant response.
+- Useful for general health queries (not a replacement for professional medical advice).
+
+## Dependencies
+- `gradio`
+- `torch`
+- `transformers`
+  
+## Possible Improvements
+💡 Fine-tuning on medical datasets for better domain-specific accuracy
+💡 Integrating retrieval-based responses to include factual information from reliable sources
+💡 Adding voice-to-text support for a more interactive experience
+
 ## Installation
 
 1. Clone the repository:
@@ -25,16 +40,8 @@ This project is an AI-powered chatbot built using **Gradio** and **Microsoft Phi
    ```bash
    python app.py
    ```
-
-## Usage
-- Enter a health-related question in the chat input.
-- The AI will generate a relevant response.
-- Useful for general health queries (not a replacement for professional medical advice).
-
-## Dependencies
-- `gradio`
-- `torch`
-- `transformers`
+## Conclusion   
+This project helped me deepen my understanding of Large Language Models, model inference optimization, and API integration. It also gave me hands-on experience with building AI-driven applications that can be deployed and used in real-world scenarios.
 
 ## Contributing
 Feel free to contribute to this project by opening issues or submitting pull requests.
